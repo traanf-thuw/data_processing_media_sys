@@ -1,1 +1,4 @@
-# data_processing_media_sys
+# Data Processing
+- Thu Tran
+- Bocheng Peng 
+- Yen Phan
